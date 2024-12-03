@@ -62,9 +62,6 @@ Test your modifications by uploading models and textures using the provided UI.
 Bonus Task
 If applicable, details about the bonus task can be added here.
 
-Contribution
-Feel free to fork this repository and contribute! You can submit a pull request with improvements or report any issues.
-
 License
 This project is for educational purposes as part of CS 405 coursework.
 
