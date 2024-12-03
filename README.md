@@ -55,7 +55,7 @@ Instructions to Run the Project
 Clone the repository:
 bash
 Kodu kopyala
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/melisphlvn/your-repository.git
 Open the folder in your editor.
 Open the project2.html file in your preferred browser.
 Test your modifications by uploading models and textures using the provided UI.
